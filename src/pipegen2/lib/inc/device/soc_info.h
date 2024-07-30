@@ -8,6 +8,7 @@
 #include <memory>
 #include <string>
 #include <vector>
+#include <unordered_map>
 
 #include "common/base_types.hpp"
 #include "device/tt_arch_types.h"
